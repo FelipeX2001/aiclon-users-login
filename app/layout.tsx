@@ -2,9 +2,9 @@ import './globals.css';
 
 import { GeistSans } from 'geist/font/sans';
 
-let title = 'Next.js + Postgres Auth Starter';
+let title = 'AICLON Login';
 let description =
-  'This is a Next.js starter kit that uses NextAuth.js for simple email + password login and a Postgres database to persist the data.';
+  'Inicio de Sesión para Usuarios de AICLON. Ingresa tus credenciales para acceder a la plataforma.';
 
 export const metadata = {
   title,

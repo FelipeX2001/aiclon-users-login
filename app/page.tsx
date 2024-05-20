@@ -20,19 +20,19 @@ export default function Page() {
         </svg>
         <div className="text-center max-w-screen-sm mb-10">
           <h1 className="text-stone-200 font-bold text-2xl">
-            Next.js + Postgres Auth Starter
+            AICLON Login
           </h1>
           <p className="text-stone-400 mt-5">
-            This is a{' '}
+            Esta este es el inicio de sesión de{' '}
             <a
               href="https://nextjs.org/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-stone-400 underline hover:text-stone-200 transition-all"
             >
-              Next.js
+              AICLON
             </a>{' '}
-            starter kit that uses{' '}
+            para acceder a todas tus funcionalidades{' '}
             <a
               href="https://next-auth.js.org/"
               target="_blank"
